@@ -33,4 +33,15 @@
         app:progressMode="true"
         app:selectedDotColor="@color/md_blue_200" />
 
+    <Button
+        android:id="@+id/skip_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="33dp"
+        android:text="Skip"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/viewPager" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
