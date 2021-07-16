@@ -15,19 +15,15 @@ git clone https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-viewpage
     • onboardingFirstFragment.class
     • onboardingSecondFragment.class
     • onboardingThirdFragment.class
-    • splashFragment.class
-
-### Componets
-    • ViewPager
-    • TabLayout for Indicator
-    • Material Buttons
-    
+    • splashFragment.class    
 ### Frameworks
-    • Material Components
     • Splash Lottie
     • Dots Indicator
-
-
+    • Material Components
+### Componets
+    • TabLayout for Indicator
+    • Material Buttons
+    • ViewPager    
 ## Dependencies
 
 ```bash
