@@ -2,26 +2,26 @@
 android-viewpager-osmnskman created by GitHub Classroom
 
 ## Installation
-First, clone the repository.
+Clone the rpository.
 ```bash
 git clone https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-viewpager-osmnskman.git
 ```
-#### ACTIVITIES
+### Activities
     • MainActivity.class   
     
-#### FRAGMENTS
+### Fragments
     • onboardingAllFragment.class
     • onboardingFirstFragment.class
     • onboardingSecondFragment.class
     • onboardingThirdFragment.class
     • splashFragment.class
 
-#### COMPONENTS
+### Componets
     • ViewPager
     • TabLayout for Indicator
     • Material Buttons
     
-#### FRAMEWORKS
+### Frameworks
     • Material Components
     • Splash Lottie
 
