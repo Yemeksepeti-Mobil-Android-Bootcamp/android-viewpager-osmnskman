@@ -24,6 +24,7 @@ git clone https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-viewpage
 ### Frameworks
     • Material Components
     • Splash Lottie
+    • Dots Indicator
 
 
 ## Dependencies
