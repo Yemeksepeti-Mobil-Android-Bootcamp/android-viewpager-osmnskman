@@ -6,7 +6,7 @@ android-viewpager-osmnskman created by GitHub Classroom
 First, clone the repository.
 
 ```bash
-git clone https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-viewpager-remidosol.git
+git clone https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-viewpager-osmnskman.git
 ```
 
 
